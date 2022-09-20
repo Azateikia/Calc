@@ -64,9 +64,7 @@ public class Main {
 
         }
 
-        if (isRomeOrNot(s0) == isRomeOrNot(s2)) {   // очень понравился этот способ проверки.
-            // спасибо каналу Coducation на youtube!
-            // я не скопировал, просто взял идею =)
+        if (isRomeOrNot(s0) == isRomeOrNot(s2)) {   
             if ( bo == isRomeOrNot(s0)){        // увидели римские отправляем считать
                 a = findInt(s0);            // I --> 1
                 b = findInt(s2);            // II --> 2
@@ -136,7 +134,7 @@ public class Main {
     }
 
 
-    // до сюда метод калк
+  
 
 
     public static int findInt (String sss){             // меняем строку на число
