@@ -37,11 +37,7 @@ public class Main {
             System.out.println(" слшиком много всего");
             System.exit(0);
         }
-//        String s3 = arrStr[3]; // null
-//        if (s3 != "ghjdjngdng"){ // что-то не то
-//            System.out.println(" слшиком много всего");
-//            System.exit(0);
-//        }              Жаль, не сработало...
+
 
 
 
